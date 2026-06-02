@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: astral-sh/[email protected]
+      - uses: astral-sh/@v8.1.0
       - run: uv sync
       - run: uv run ruff check .
