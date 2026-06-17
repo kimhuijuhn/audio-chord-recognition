@@ -1,21 +1,21 @@
-# Learning Log ("I-built-it inventory")
+# Learning Log 
 
-Tracks honest state of understanding throughout the project.
-The value is in sections 2 and 3 — the honest "I don't fully get this yet."
 
----
-
-## 1. Concepts I can implement from memory
-(with date achieved)
+## I Fully Understand This
 * gitignore depth-matching
-
-## 2. Concepts I understand but couldn't implement from scratch yet
-(with the source of help)
-* src-layout
 * pitch class
+* chord template construction
+* NumPy Broadcasting
+* vectorized cosine via matrix multiplication
+* cosine similarity calculation
+* `pytest` fixtures
+* Percentage points vs. percent change
 
-## 3. Concepts I used but don't fully understand
-(with a TODO for follow-up)
-* audio->chroma pipleline spine
+## I Know What It Is
+* src-layout
+* audio->chroma pipeline spine
+* `mir_eval` evaluation process
+
+## I Need Refreshers
 * Aliasing
 * Time-frequency tradeoff
